@@ -1,4 +1,4 @@
-#dikdortgen alan ve cevre hesabi
+#########dikdortgen alan ve cevre hesabi############
 kisakenar = int(input())
 uzunkenar = int(input())
 alan = kisakenar * uzunkenar
